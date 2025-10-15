@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Centaurusalpha.github.io/sitemap.xml
